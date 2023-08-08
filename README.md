@@ -5,9 +5,6 @@
 
 预览效果：https://book.malinkang.com
 
-
-注意：请不要在Page里面添加自己的笔记，有新的笔记的时候会删除原笔记重新添加。
-
 ## 使用
 
 1. star本项目
@@ -15,7 +12,7 @@
 3. 获取微信读书的Cookie
     * 浏览器打开 https://weread.qq.com/
     * 微信扫码登录确认，提示没有权限忽略即可
-    * 按F12进入开发者模式，依次点 Network -> Doc -> Headers-> cookie。复制 Cookie 字符串;
+    * 按F12进入开发者模式，依次点 Network -> WeRead。复制 Cookie 字符串;
 4. 获取NotionToken
     * 浏览器打开https://www.notion.so/my-integrations
     * 点击New integration 输入name提交
